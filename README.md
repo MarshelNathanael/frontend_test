@@ -1,3 +1,6 @@
+**Position:**  
+Junior Front End Developer
+
 **Objective:**  
 The purpose of this interview test is to assess your skills and proficiency in front end development, specifically in HTML5, JavaScript, SCSS/SASS, and use of preprocessors such as Gulp, along with the ability to incorporate CSS animations. You will be tasked with creating a one page website based on provided specifications and requirements, as well as demonstrating your understanding of version control with Git.
 
