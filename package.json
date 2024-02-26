@@ -1,0 +1,28 @@
+{
+  "name": "Frontend Test",
+  "version": "1.0.0",
+  "description": "Test Front End Developer",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp:serve": "gulp serve",
+    "gulp:build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarshelNathanael/frontend_test.git"
+  },
+  "author": "Marshel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarshelNathanael/frontend_test/issues"
+  },
+  "homepage": "https://github.com/MarshelNathanael/frontend_test#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.71.1"
+  }
+}
