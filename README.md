@@ -1,3 +1,7 @@
+**========== HOW TO BUILD AND DEPLOYMENT  ==========**
+- npm run gulp:build -> to compile scss to css, minify css, and compress JS
+- npm run gulp:serve -> to run project in development mode
+
 **Position:**  
 Junior Front End Developer
 
